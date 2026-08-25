@@ -14,8 +14,8 @@ It simulates core payment operations without connecting to any real payment gate
 
 | Category         | Values                                              |
 |------------------|-----------------------------------------------------|
-| **Currencies**   | `USD`, `EUR`, `GBP`, `CAD`, `AUD`                  |
-| **Methods**      | `credit_card`, `debit_card`, `paypal`, `bank_transfer` |
+| **Currencies**   | `USD`, `EUR`, `GBP`, `CAD`, `AUD`,`PKR`                 |
+| **Methods**      | `credit_card`, `debit_card`, `paypal`, `bank_transfer`,`virtual_card` |
 
 ## Quick Start
 
