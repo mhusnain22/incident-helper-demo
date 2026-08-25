@@ -103,7 +103,7 @@ def refund_payment(transaction_id: str, amount: float = None) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# Quick demo
+# Quick demo How its work 
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     print("=== Payment Service Demo ===\n")
