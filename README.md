@@ -20,7 +20,7 @@ It simulates core payment operations without connecting to any real payment gate
 ## Quick Start
 
 ```bash
-python payment_service.py
+# python payment_service.py
 ```
 
 ## Usage
