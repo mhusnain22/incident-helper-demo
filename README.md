@@ -41,7 +41,7 @@ print(transaction["transaction_id"])  # e.g. "3f1a2b4c-..."
 refund = refund_payment(transaction["transaction_id"])
 print(refund["status"])  # "refunded"
 
-# Handle validation errors
+# Handle validation errors and resolved the issues 
 try:
     process_payment(-5, currency="XYZ")
 except PaymentError as e:
