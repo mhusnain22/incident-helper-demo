@@ -43,7 +43,7 @@ print(refund["status"])  # "refunded"
 
 # Handle validation errors and resolved the issues 
 
-# Incident to related Handle validation errors and resolved the issues 
+# How we send the  related Handle validation errors
 try:
     process_payment(-5, currency="XYZ")
 except PaymentError as e:
